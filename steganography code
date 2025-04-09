@@ -1,3 +1,6 @@
+import cv2
+import os
+
 d = {chr(i): i for i in range(255)}
 c = {i: chr(i) for i in range(255)}
 
